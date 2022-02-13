@@ -67,10 +67,10 @@ namespace MockAssessment3
         {
             Villagers = new List<Villager>();
 
-            Villagers.Add(new Farmer("Bill"));
-            Villagers.Add(new Slacker(""));
-            Villagers.Add(new Slacker(""));
-            Villagers.Add(new Slacker(""));
+            Villagers.Add(new Farmer("Bill Bo Baggin-Hay"));
+            Villagers.Add(new Slacker("Lazy Larry"));
+            Villagers.Add(new Slacker("Drunkard Doug"));
+            Villagers.Add(new Slacker("Is This Horse Dead Or Sleeping?"));
         }
 
 
